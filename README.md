@@ -1,1 +1,1 @@
-# Background generator which enables dynamically change background color of a web page.
+# Background generator which enables to dynamically change background color of a web page.
